@@ -1,0 +1,17 @@
+@import './base.css';
+
+*{
+    box-sizing: border-box;
+}
+
+#app {
+    margin: 0 auto;
+    font-weight: normal;
+}
+
+a,
+.green {
+    text-decoration: none;
+    color: hsl(0, 0%, 2%);
+    transition: 0.4s;
+}
